@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to VLTTECHNO Technologies Private Ltd... </h1>
-<h1 align="center"> vlttechno Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> vlttechno Technologies</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
